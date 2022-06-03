@@ -4,7 +4,10 @@
 ### 2.Control Flow Graph
 <img width="249" alt="cfg" src="https://user-images.githubusercontent.com/82410097/171904748-1c92e066-8e4d-4568-9e63-f7cacf2a63d3.PNG">
    9,1 ->initialization (i=0)
+   
+   
    9,2 ->condition (i<n)
+   
    9,3 ->incrementing (i++)
 
 ### 3.Цикломатска комплексност
